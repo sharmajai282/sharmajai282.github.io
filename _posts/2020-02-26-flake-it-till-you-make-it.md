@@ -1,18 +1,21 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+title: 2008 Recession: What It Was and What Caused It
+subtitle: Fact checked by Amanda Bellucco-Chatham
+tags: [market risk, financial crisis]
+author: Michael J Boyle
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+The Great Recession was the sharp decline in economic activity that started in 2007 and lasted several years, spilling into global economies. It is considered the most significant downturn since the Great Depression in the 1930s. The term "Great Recession" applies to both the U.S. recession, officially lasting from December 2007 to June 2009, and the ensuing global recession in 2009.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+KEY TAKEAWAYS
+The Great Recession refers to the economic downturn from 2007 to 2009 after the bursting of the U.S. housing bubble and the global financial crisis.
+The Great Recession was the most severe economic recession in the United States since the Great Depression of the 1930s.
+In response to the Great Recession, unprecedented fiscal, monetary, and regulatory policy was unleashed by federal authorities, which some, but not all, credit with the subsequent recovery.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+According to a 2011 report by the Financial Crisis Inquiry Commission, the Great Recession was avoidable. The appointees, which included six Democrats and four Republicans, cited several key contributing factors they determined led to the downturn.
+
+First, the report identified failure on the part of the government to regulate the financial industry. This failure to regulate included the Fed’s inability to stop banks from giving mortgages to people who subsequently proved to be a bad credit risk.
+
+Next, too many financial firms took on too much risk. The shadow banking system, which included investment firms, grew to rival the depository banking system but was not under the same scrutiny or regulation. When the shadow banking system failed, the collapse impacted the flow of credit to consumers and businesses.
