@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2008 Recession: What It Was and Key Takeaway
+title: 2008 Recession - What It Was and Key Takeaway
 ---
 
 The Great Recession was the sharp decline in economic activity that started in 2007 and lasted several years, spilling into global economies. It is considered the most significant downturn since the Great Depression in the 1930s. The term "Great Recession" applies to both the U.S. recession, officially lasting from December 2007 to June 2009, and the ensuing global recession in 2009.
