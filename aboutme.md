@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Software Engineer - Bank of America
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Results-driven software engineer with 3 years of experience in designing and implementing robust software solutions tailored to the unique needs of financial institutions. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Proficient in leveraging cutting-edge technologies and frameworks to optimize banking operations, enhance security measures, and improve customer experiences. 
 
-What else do you need?
+Proven track record of delivering high-quality code while adhering to strict regulatory standards and industry best practices. 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Committed to staying abreast of industry trends and emerging technologies to drive continuous innovation in the finance sector.
